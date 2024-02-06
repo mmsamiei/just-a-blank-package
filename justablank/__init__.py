@@ -1,3 +1,6 @@
 # from .module1 import *
 # from .module2 import *
-from justablank import *
+__all__ = [
+    "module1",
+    "module2"
+]
