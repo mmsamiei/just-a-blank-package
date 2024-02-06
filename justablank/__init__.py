@@ -1,1 +1,2 @@
-import module1, module2
+from module1 import *
+from module2 import *
