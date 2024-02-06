@@ -4,3 +4,4 @@
 #     "module1",
 #     "module2"
 # ]
+from . import *
