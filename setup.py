@@ -30,7 +30,7 @@ def get_install_requires():
 
 setup(
     name='justablank',
-    version='0.0.0',
+    version='0.0.1',
     packages=find_packages(),
     author="Mahdi Samiei",
     license="MIT",
