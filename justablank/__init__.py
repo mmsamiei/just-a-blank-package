@@ -5,4 +5,4 @@
 #     "module2"
 # ]
 # from . import *
-from . import module1, module2
+from . import module1, module2, dummy_classifier
